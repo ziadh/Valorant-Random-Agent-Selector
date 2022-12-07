@@ -13,7 +13,7 @@ You have to have all the agents unlocked for the current version to work. I am p
 
 ## How to Install:
 
-After downloading the file through [this link](https://github.com/ziadh/Valorant-Random-Agent/releases/latest), unzip the folder. Press on the address bar as you see below:
+After downloading the file through [this link](https://github.com/ziadh/Valorant-Random-Agent-Selector/releases/latest), unzip the folder. Press on the address bar as you see below:
 
 ![image](https://user-images.githubusercontent.com/15097797/205657888-b4525e5e-7357-42a6-ac87-20850553e3fc.png)
 
@@ -26,5 +26,5 @@ After that is processed, type 'python main.py' and the program should boot up.
  Any contributions are **greatly appreciated**.
 
 
-[downloads-shield]: https://img.shields.io/github/downloads/ziadh/Valorant-Random-Agent/total?style=for-the-badge&logo=github
-[downloads-url]: https://github.com/ziadh/Valorant-Random-Agent/releases/latest
+[downloads-shield]: https://img.shields.io/github/downloads/ziadh/Valorant-Random-Agent-Selector/total?style=for-the-badge&logo=github
+[downloads-url]: https://github.com/ziadh/Valorant-Random-Agent-Selector/releases/latest
